@@ -18,7 +18,7 @@ for (let index = 1; index <= 100; index++) {
 }
 
 function myFunc(one,two) {
-    return one - two;
+    return one - two;cd 
 }
 const result = myFunc(100, 200);
 console.log(result);
